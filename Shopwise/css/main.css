@@ -1,0 +1,7 @@
+div#home,
+#profile,
+#messages,
+#settings {
+  margin-top: 3% !important;
+  margin-bottom: 3% !important;
+}
