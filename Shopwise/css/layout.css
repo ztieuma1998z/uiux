@@ -744,6 +744,8 @@ input {
 }
 .main-custom-desc-star {
   font-size: 14px;
+}
+.checked {
   color: #f5b612;
 }
 .main-custom-imgAct {

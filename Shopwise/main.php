@@ -73,10 +73,12 @@
                                           Red&black Headphone
                                        </h5>
                                        <h6 class="main-custom-desc-sale">$4.50</h6>
-                                       <div class="main-custom-desc-star">
-                                          <i class="fal fa-star"></i><i class="fal fa-star"></i
-                                             ><i class="fal fa-star"></i><i class="fal fa-star"></i
-                                             ><i class="fal fa-star"></i>
+                                          <div class="main-custom-desc-star">                                          
+                                             <span class="fa fa-star checked"></span>
+                                             <span class="fa fa-star checked"></span>
+                                             <span class="fa fa-star checked"></span>
+                                             <span class="fal fa-star no"></span>
+                                             <span class="fal fa-star no"></span>
                                        </div>
                                     </div>
                                  </li>
@@ -117,9 +119,11 @@
                                        </h5>
                                        <h6 class="main-custom-desc-sale">$4.50</h6>
                                        <div class="main-custom-desc-star">
-                                          <i class="fal fa-star"></i><i class="fal fa-star"></i
-                                             ><i class="fal fa-star"></i><i class="fal fa-star"></i
-                                             ><i class="fal fa-star"></i>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fal fa-star"></span>
                                        </div>
                                     </div>
                                  </li>
@@ -160,9 +164,11 @@
                                        </h5>
                                        <h6 class="main-custom-desc-sale">$4.50</h6>
                                        <div class="main-custom-desc-star">
-                                          <i class="fal fa-star"></i><i class="fal fa-star"></i
-                                             ><i class="fal fa-star"></i><i class="fal fa-star"></i
-                                             ><i class="fal fa-star"></i>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fal fa-star"></span>
                                        </div>
                                     </div>
                                  </li>
@@ -203,9 +209,11 @@
                                        </h5>
                                        <h6 class="main-custom-desc-sale">$4.50</h6>
                                        <div class="main-custom-desc-star">
-                                          <i class="fal fa-star"></i><i class="fal fa-star"></i
-                                             ><i class="fal fa-star"></i><i class="fal fa-star"></i
-                                             ><i class="fal fa-star"></i>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fa fa-star checked"></span>
+                                          <span class="fa fa-star checked"></span>
                                        </div>
                                     </div>
                                  </li>
@@ -1041,9 +1049,12 @@
                                        </h5>
                                        <h6 class="main-custom-desc-sale">$4.50</h6>
                                        <div class="main-custom-desc-star">
-                                          <i class="fal fa-star"></i><i class="fal fa-star"></i
-                                             ><i class="fal fa-star"></i><i class="fal fa-star"></i
-                                             ><i class="fal fa-star"></i>
+                                       <span class="fa fa-star checked"></span>
+                                       <span class="fa fa-star checked"></span>
+                                       <span class="fa fa-star checked"></span>
+                                       <span class="fa fa-star"></span>
+                                       <span class="fa fa-star"></span>
+
                                        </div>
                                     </div>
                                  </li>
