@@ -476,9 +476,9 @@
                         <div class="row">
                            <div class="">
                               <div class="line-slide-wrap">
-                                 <div class="line-slide-backgr"><img src="images/banner13.jpg" alt=""></div>
-                                 <div class="line-slide-backgr"><img src="images/banner14.jpg" alt=""></div>
-                                 <div class="line-slide-backgr"><img src="images/banner15.jpg" alt=""></div>
+                                 <div class="line-slide-backgr"><img src="images/telephone.png" alt=""></div>
+                                 <div class="line-slide-backgr"><img src="images/watches.png" alt=""></div>
+                                 <div class="line-slide-backgr"><img src="images/headphone.png" alt=""></div>
                               </div>
                            </div>
                         </div>
